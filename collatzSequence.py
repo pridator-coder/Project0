@@ -12,5 +12,4 @@ a=collatz(num)
 while a!=1:
     a=collatz(a)
 
-print(a/2)
-print(a//2)
+
