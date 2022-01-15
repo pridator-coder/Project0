@@ -1,2 +1,2 @@
 # Project0
-I'll be making my first CS project
+I'll be learning the pre-requisites to my 1st python program
